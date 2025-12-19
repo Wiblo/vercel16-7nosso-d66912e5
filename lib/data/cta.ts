@@ -14,7 +14,7 @@ export interface CTAContent {
 export const ctaContent: CTAContent = {
   title: 'Ready to Start Your Healing Journey?',
   description:
-    'Experience comprehensive chiropractic care tailored to your unique needs. Dr. Kamilah Jordaan is here to help you achieve optimal health and wellness.',
+    'Experience comprehensive chiropractic care tailored to your unique needs. Rebecca Currie is here to help you achieve optimal health and wellness.',
   ctaText: 'Book Your Appointment',
   ctaUrl: 'https://sticksandstoneswellnesshub.pencilmein.online/Booking',
   backgroundImage: '/cta-background.jpeg',

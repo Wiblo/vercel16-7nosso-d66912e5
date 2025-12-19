@@ -45,7 +45,7 @@ export const services: Service[] = [
     shortDescription:
       'Your journey to optimal health begins with a comprehensive assessment',
     fullDescription:
-      'During your initial consultation, Dr. Jordaan conducts a thorough evaluation of your health history, current concerns, and wellness goals. This includes a detailed physical examination, postural analysis, and functional movement assessment.\n\nUsing evidence-based diagnostic techniques, we identify the root cause of your discomfort and develop a personalized treatment plan tailored to your unique needs. If appropriate, your first chiropractic adjustment may be performed during this visit.',
+      'During your initial consultation, Rebecca conducts a thorough evaluation of your health history, current concerns, and wellness goals. This includes a detailed physical examination, postural analysis, and functional movement assessment.\n\nUsing evidence-based diagnostic techniques, we identify the root cause of your discomfort and develop a personalized treatment plan tailored to your unique needs. If appropriate, your first chiropractic adjustment may be performed during this visit.',
     idealFor: [
       'New patients',
       'Chronic pain',
@@ -76,7 +76,7 @@ export const services: Service[] = [
     shortDescription:
       'Ongoing care to maintain progress and achieve your health goals',
     fullDescription:
-      'Follow-up consultations are essential for monitoring your progress and ensuring optimal results. Each session includes a reassessment of your condition, targeted chiropractic adjustments, and complementary therapies as needed.\n\nDr. Jordaan adjusts your treatment plan based on your response to care, ensuring you continue progressing toward your health goals. These appointments also include guidance on exercises, lifestyle modifications, and self-care strategies to support your healing between visits.',
+      'Follow-up consultations are essential for monitoring your progress and ensuring optimal results. Each session includes a reassessment of your condition, targeted chiropractic adjustments, and complementary therapies as needed.\n\nRebecca adjusts your treatment plan based on your response to care, ensuring you continue progressing toward your health goals. These appointments also include guidance on exercises, lifestyle modifications, and self-care strategies to support your healing between visits.',
     idealFor: [
       'Ongoing treatment',
       'Maintenance care',

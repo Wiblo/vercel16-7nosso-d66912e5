@@ -61,20 +61,20 @@
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.28 0 0); /* charcoal */
 
-  /* Primary brand color - pink */
-  --primary: oklch(0.60 0.20 350); /* pink-primary */
-  --primary-foreground: oklch(0.99 0 0); /* white text on pink */
+  /* Primary brand color - purple */
+  --primary: oklch(0.60 0.20 280); /* purple-primary */
+  --primary-foreground: oklch(0.99 0 0); /* white text on purple */
 
-  /* Secondary colors - light pink for backgrounds */
-  --secondary: oklch(0.90 0.10 350); /* pink-soft for subtle backgrounds */
+  /* Secondary colors - light purple for backgrounds */
+  --secondary: oklch(0.90 0.10 280); /* purple-soft for subtle backgrounds */
   --secondary-foreground: oklch(0.28 0 0); /* charcoal text */
 
   /* Muted colors - light backgrounds */
-  --muted: oklch(0.95 0.05 350); /* light pink-tinted background */
+  --muted: oklch(0.95 0.05 280); /* light purple-tinted background */
   --muted-foreground: oklch(0.48 0 0); /* warm-gray for secondary text */
 
-  /* Accent colors - pink accents */
-  --accent: oklch(0.90 0.10 350); /* pink-soft */
+  /* Accent colors - purple accents */
+  --accent: oklch(0.90 0.10 280); /* purple-soft */
   --accent-foreground: oklch(0.28 0 0); /* charcoal text */
 
   /* Destructive colors */
@@ -84,7 +84,7 @@
   /* Border and input colors */
   --border: oklch(0.90 0 0); /* neutral light gray for borders */
   --input: oklch(0.90 0 0); /* neutral light gray */
-  --ring: oklch(0.60 0.20 350); /* pink-primary for focus rings */
+  --ring: oklch(0.60 0.20 280); /* purple-primary for focus rings */
 
   /* Chart colors */
   --chart-1: oklch(0.646 0.222 41.116);
@@ -96,15 +96,15 @@
   /* Sidebar colors */
   --sidebar: oklch(0.985 0 0);
   --sidebar-foreground: oklch(0.145 0 0);
-  --sidebar-primary: oklch(0.60 0.20 350);
+  --sidebar-primary: oklch(0.60 0.20 280);
   --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.95 0.08 350);
+  --sidebar-accent: oklch(0.95 0.08 280);
   --sidebar-accent-foreground: oklch(0.25 0 0);
-  --sidebar-border: oklch(0.90 0.05 350);
-  --sidebar-ring: oklch(0.60 0.20 350);
+  --sidebar-border: oklch(0.90 0.05 280);
+  --sidebar-ring: oklch(0.60 0.20 280);
 
-  /* Custom color for primary hover state - dark pink */
-  --primary-hover: oklch(0.50 0.20 350);
+  /* Custom color for primary hover state - dark purple */
+  --primary-hover: oklch(0.50 0.20 280);
 }
 
 .dark {
@@ -218,8 +218,8 @@
     max-width: 50rem;
   }
 
-  /* Pink color utilities for text */
-  .text-pink-dark {
-    color: oklch(0.50 0.20 350); /* pink-dark */
+  /* Purple color utilities for text */
+  .text-purple-dark {
+    color: oklch(0.50 0.20 280); /* purple-dark */
   }
 }
