@@ -11,10 +11,10 @@ export default function Home() {
   return (
     <>
       <HeroWithImage
-        subtitle="Dr. Kamilah Jordaan"
+        subtitle="Rebecca Currie"
         title="Sports & Family Chiropractic Care"
-        backgroundImage="/dr-kamilah-professional-portrait.jpeg"
-        backgroundImageAlt="Dr. Kamilah Jordaan - Professional Chiropractor"
+        backgroundImage="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?q=80&w=1200&auto=format&fit=crop"
+        backgroundImageAlt="Rebecca Currie - Professional Chiropractor"
         ctaText="Book Your Appointment"
         ctaUrl={businessInfo.bookingUrl}
       />

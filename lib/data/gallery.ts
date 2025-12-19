@@ -21,27 +21,27 @@ export const galleryContent: GalleryContent = {
   items: [
     {
       id: 'gallery-1',
-      image: '/gallery/treatment-room-1.jpeg',
+      image: 'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=800&auto=format&fit=crop',
       alt: 'Modern chiropractic treatment room',
     },
     {
       id: 'gallery-2',
-      image: '/gallery/treatment-room-2.jpeg',
+      image: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=800&auto=format&fit=crop',
       alt: 'Professional chiropractic adjustment space',
     },
     {
       id: 'gallery-3',
-      image: '/gallery/reception-area.jpeg',
+      image: 'https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=800&auto=format&fit=crop',
       alt: 'Welcoming reception area',
     },
     {
       id: 'gallery-4',
-      image: '/gallery/equipment.jpeg',
+      image: 'https://images.unsplash.com/photo-1512678080530-7760d81faba6?q=80&w=800&auto=format&fit=crop',
       alt: 'State-of-the-art chiropractic equipment',
     },
     {
       id: 'gallery-5',
-      image: '/gallery/waiting-area.jpeg',
+      image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=800&auto=format&fit=crop',
       alt: 'Comfortable waiting area',
     },
   ],
